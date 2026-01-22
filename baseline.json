@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-01-01 13:13:03.844120",
+    "HKCU_Run": {
+        "HPSEU_Host_Launcher": "C:\\Program Files\\HP\\HP System Event Utility\\Host Launcher\\HpseuHostLauncher.exe",
+        "OneDrive": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background",
+        "Opera Stable": "C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera\\opera.exe",
+        "Opera GX Stable": "C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\opera.exe",
+        "Opera GX Browser Assistant": "C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\assistant\\browser_assistant.exe",
+        "Teams": "\"C:\\Users\\Vaishali\\AppData\\Local\\Microsoft\\WindowsApps\\MSTeams_8wekyb3d8bbwe\\ms-teams.exe\" msteams:system-initiated",
+        "MicrosoftEdgeAutoLaunch_4B7FB744696DED3635F56145A908E4C2": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start"
+    }
+}

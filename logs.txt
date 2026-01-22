@@ -1,0 +1,3 @@
+2026-01-01 13:22:22.448855 [NEW] Autorun entry added: TestEntry -> C:\test.exe
+2026-01-01 13:28:45.925139 [SECURITY] Suspicious Defender policy detected (TEST)
+2026-01-21 19:10:24.076398 [SECURITY] Suspicious Defender policy detected (TEST)
