@@ -2,7 +2,7 @@
 
 ### Cybersecurity Monitoring Tool for Detecting Persistence & Policy Tampering
 
-🔗 **Project Repository:** [https://github.com/your-username/windows-registry-monitor](https://github.com/your-username/windows-registry-monitor)
+🔗 **Project Repository:** [https://github.com/kadamvaishali378/Windows-Registry-Change-Monitoring-System](https://github.com/kadamvaishali378/Windows-Registry-Change-Monitoring-System)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
