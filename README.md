@@ -160,7 +160,7 @@ Windows Registry → Python Script → winreg Module
 ## 📁 Project Structure
 
 ```
-windows-registry-monitor/
+Windows-Registry-Change-Monitoring-System/
 │── monitor.py
 │── baseline.json
 │── logs.txt
