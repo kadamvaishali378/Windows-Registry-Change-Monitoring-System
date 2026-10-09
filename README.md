@@ -226,7 +226,7 @@ This project demonstrates how registry monitoring can detect suspicious system c
 
 ## 👩‍💻 Author
 
-**Vaishali Vasant Kadam**
+**Vaishali Kadam**
 
 
 ---
