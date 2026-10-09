@@ -4,7 +4,7 @@
 
 🔗 **Project Repository:** [https://github.com/kadamvaishali378/Windows-Registry-Change-Monitoring-System](https://github.com/kadamvaishali378/Windows-Registry-Change-Monitoring-System)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
@@ -227,7 +227,6 @@ This project demonstrates how registry monitoring can detect suspicious system c
 ## 👩‍💻 Author
 
 **Vaishali Vasant Kadam**
-Cyber Security Internship Project
 
 
 ---
