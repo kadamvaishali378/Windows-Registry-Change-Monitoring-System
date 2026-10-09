@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-The **Windows Registry Change Monitoring System** is a cybersecurity tool developed as part of an internship project to detect suspicious changes in the Windows Registry.
+The **Windows Registry Change Monitoring System** is a cybersecurity tool that detects suspicious changes in the Windows Registry.
 
 It focuses on identifying common attack techniques such as:
 
