@@ -48,7 +48,7 @@ The system compares current registry values with a stored **baseline snapshot**,
 
 ## 🐍 Python Version
 
-Python 3.x (Recommended: Python 3.8 or above)
+Python 3.14 (Recommended: Python 3.8 or above)
 
 ---
 
@@ -56,10 +56,10 @@ Python 3.x (Recommended: Python 3.8 or above)
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/windows-registry-monitor.git
+git clone https://github.com/kadamvaishali378/Windows-Registry-Change-Monitoring-System.git
 
 # Navigate to project
-cd windows-registry-monitor
+cd Windows-Registry-Change-Monitoring-System
 
 # Run application
 python monitor.py
